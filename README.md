@@ -12,4 +12,4 @@
 执行 python do.py
 
 ##效果图
-[demo](http://7ls08n.com1.z0.glb.clouddn.com/Screenshot_2016-02-24-21-00-49.gif)
+![demo](http://7ls08n.com1.z0.glb.clouddn.com/Screenshot_2016-02-24-21-00-49.gif)
