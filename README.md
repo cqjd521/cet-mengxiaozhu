@@ -10,8 +10,13 @@
 
 ##windows用法
 [安装python for win 3.4](https://www.python.org/downloads/windows/)
+
 下载本项目解压，命令行切换到该项目
+
+用文本编辑器修改config.py内的信息
+
 执行 pip install -r requirements.txt
+
 执行 python do.py
 
 ##效果图
